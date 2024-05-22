@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.4",
         "pagarme/pagarme-php": "^3.8",
-        "guzzlehttp/guzzle": "^5.3"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.8",
